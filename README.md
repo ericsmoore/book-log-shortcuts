@@ -1,6 +1,7 @@
 # Book Log Shortcuts
 
-Apple Shortcuts that make recording my reading data easier. 
+Apple Shortcuts that make recording my reading data easier.
+
 [See how i'm using it](https://github.com/ericsmoore/reading-analysis).
 
 ## Installation
