@@ -1,6 +1,6 @@
 # Version for iPadOS 15
 
-I am using an iPad Mini 4 as an e-book reader. It no longer receives updates past OS 15, so I had to rewrite the shortcuts to remove and work around features that don't exist. The main difference is that **the stopwatch can't be started automatically.*
+I am using an iPad Mini 4 as an e-book reader. It no longer receives updates past OS 15, so I had to rewrite the shortcuts to remove and work around features that don't exist. The main difference is that **the stopwatch can't be started automatically.**
 
 Usage is also slightly different, since these are aimed to be used with the same device that is reading. Apple books is automatically opened.
 
